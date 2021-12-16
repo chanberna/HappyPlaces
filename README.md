@@ -1,2 +1,2 @@
 # HappyPlaces
-Developed the Happy Places application using Android Studio with Kotlin.
+Developed the Happy Places application using Kotlin in Android Studio.
